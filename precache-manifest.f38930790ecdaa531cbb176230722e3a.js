@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "730a5c65e997d569858b4817f5238d12",
+    "revision": "eda195c732d5904c57e905d8ab968557",
     "url": "/rgmusic/index.html"
   },
   {
-    "revision": "75b29b4e9853d64d0aac",
+    "revision": "b3dbe7195d819699974f",
     "url": "/rgmusic/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rgmusic/static/js/2.34a2834d.chunk.js"
   },
   {
-    "revision": "75b29b4e9853d64d0aac",
-    "url": "/rgmusic/static/js/main.097834e6.chunk.js"
+    "revision": "b3dbe7195d819699974f",
+    "url": "/rgmusic/static/js/main.f585d69c.chunk.js"
   },
   {
     "revision": "6da32cb2900b378ed65f",
