@@ -14,7 +14,7 @@ const Home = props => (
     alignItems="flex-start"
   >
     <Grid item sm={4}>
-      <LeftPanel style={style.Paper}> first item</LeftPanel>
+      <LeftPanel style={style.Paper} />
     </Grid>
     <Grid item sm={4}>
       <Paper style={style.Paper}> Second item</Paper>
