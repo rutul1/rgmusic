@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/rgmusic/static/css/main.2cce8147.chunk.css",
-    "main.js": "/rgmusic/static/js/main.9121714d.chunk.js",
-    "main.js.map": "/rgmusic/static/js/main.9121714d.chunk.js.map",
+    "main.js": "/rgmusic/static/js/main.5ad302bb.chunk.js",
+    "main.js.map": "/rgmusic/static/js/main.5ad302bb.chunk.js.map",
     "runtime~main.js": "/rgmusic/static/js/runtime~main.1ecbe801.js",
     "runtime~main.js.map": "/rgmusic/static/js/runtime~main.1ecbe801.js.map",
-    "static/js/2.b41502e9.chunk.js": "/rgmusic/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/rgmusic/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.34a2834d.chunk.js": "/rgmusic/static/js/2.34a2834d.chunk.js",
+    "static/js/2.34a2834d.chunk.js.map": "/rgmusic/static/js/2.34a2834d.chunk.js.map",
     "index.html": "/rgmusic/index.html",
-    "precache-manifest.2c3d73d93cc7c1b40b1101657b961e17.js": "/rgmusic/precache-manifest.2c3d73d93cc7c1b40b1101657b961e17.js",
+    "precache-manifest.324be07fbd6b3f93bd3502e950ce043c.js": "/rgmusic/precache-manifest.324be07fbd6b3f93bd3502e950ce043c.js",
     "service-worker.js": "/rgmusic/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/rgmusic/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/rgmusic/static/media/logo.5d5d9eef.svg"
+    "static/css/main.2cce8147.chunk.css.map": "/rgmusic/static/css/main.2cce8147.chunk.css.map"
   }
 }
